@@ -16,6 +16,10 @@ This project aims to develop a web application for managing yoga class admission
 ++++++++++++++++++++++++++++++++++++  DashBoard/Add Members 
 ![image](https://github.com/sanskar1258/YogGuru/assets/154342944/d3796f0b-ea1f-4ef3-ab3d-cd075fe1e5f8)
 
+++++++++++++++++++++++++++++++++++++ My SQL
+![image](https://github.com/sanskar1258/YogGuru/assets/154342944/a5547d11-89d1-4d95-ae9a-7baa81b546d6)
+
+
 
 
 
