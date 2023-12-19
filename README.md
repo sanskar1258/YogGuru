@@ -3,6 +3,10 @@ Synopsis:
 
 This project aims to develop a web application for managing yoga class admissions using Java servlets, HTML, CSS, and JSP, following the Model-View-Controller (MVC) architecture. The application allows users to enroll in monthly yoga classes, choose batches, and make payments.
 
+Index Page
+![image](https://github.com/sanskar1258/YogGuru/assets/154342944/8fbeab15-a53a-4e1a-8082-b12be3b148f5)
+
+
 Key Components:
 
     Model (Java Classes):
